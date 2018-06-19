@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FREE CRM Suite" duration-ms="84849" started-at="2018-06-19T06:15:09Z" finished-at="2018-06-19T06:16:34Z">
+    <groups>
+    </groups>
+    <test name="Free CRM App" duration-ms="84849" started-at="2018-06-19T06:15:09Z" finished-at="2018-06-19T06:16:34Z">
+      <class name="JenkinPackage1.Jenkinclass1">
+        <test-method status="PASS" signature="base()[pri:0, instance:JenkinPackage1.Jenkinclass1@5c3bd550]" name="base" is-config="true" duration-ms="36588" started-at="2018-06-19T11:45:09Z" finished-at="2018-06-19T11:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- base -->
+        <test-method status="PASS" signature="login()[pri:0, instance:JenkinPackage1.Jenkinclass1@5c3bd550]" name="login" duration-ms="25458" started-at="2018-06-19T11:45:46Z" finished-at="2018-06-19T11:46:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:JenkinPackage1.Jenkinclass1@5c3bd550]" name="teardown" is-config="true" duration-ms="22771" started-at="2018-06-19T11:46:11Z" finished-at="2018-06-19T11:46:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- JenkinPackage1.Jenkinclass1 -->
+    </test> <!-- Free CRM App -->
+  </suite> <!-- FREE CRM Suite -->
+</testng-results>
